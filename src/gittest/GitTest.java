@@ -36,6 +36,7 @@ public class GitTest {
         System.out.println("your favorite meal is :" + meal);
         System.out.println("your favorite sport is :" + sport );
         System.out.println("welcome to new line");
+        System.out.println("just for b11");
     }
 
 }
