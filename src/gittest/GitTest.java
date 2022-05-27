@@ -36,7 +36,6 @@ public class GitTest {
         System.out.println("your favorite meal is :" + meal);
         System.out.println("your favorite sport is :" + sport );
         System.out.println("hello in b1");
-        System.out.println("for b1");
     }
 
 }
