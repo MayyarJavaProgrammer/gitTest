@@ -37,6 +37,8 @@ public class GitTest {
         System.out.println("your favorite sport is :" + sport );
         System.out.println("welcome to new line");
         System.out.println("this is a line for master only");
+        System.out.println("this is a line for b1");
+        
     }
 
 }
