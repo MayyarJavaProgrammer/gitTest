@@ -38,6 +38,7 @@ public class GitTest {
         System.out.println("welcome to new line");
         System.out.println("this is a line for master only");
         System.out.println("this is a line for local repo");
+        System.out.println("the new line");
     }
 
 }
